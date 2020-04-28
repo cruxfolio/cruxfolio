@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="third_line" type="id" />
+    <item name="second_line" type="id" />
+    <item name="first_line" type="id" />
+    <item name="fifth_line" type="id" />
+    <item name="activity_main_webview" type="id" />
+</resources>
